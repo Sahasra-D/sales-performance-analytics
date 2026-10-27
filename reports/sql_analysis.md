@@ -101,3 +101,4 @@ The results obtained using MySQL were compared with the results calculated using
 ### Conclusion
 
 All three metrics matched between Pandas and MySQL. This confirms that the calculations were consistent across both tools and provides confidence in the accuracy of the sales analysis.
+

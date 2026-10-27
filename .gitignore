@@ -6,6 +6,7 @@ venv/
 # Python cache files
 __pycache__/
 *.py[cod]
+*.pyc
 
 # Jupyter temporary files
 .ipynb_checkpoints/
