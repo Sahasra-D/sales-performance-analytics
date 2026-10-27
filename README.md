@@ -69,14 +69,9 @@ The Excel dashboard contains three KPI cards and four slicer-responsive charts:
 
 ![Sales Dashboard](dashboard/dashboard_screenshots/dashboard_unfiltered.png)
 
-![Monthly Sales Analysis](dashboard/dashboard_screenshots/monthly_sales.png)
+![Region Filtered dashboard](dashboard/dashboard_screenshots/dashboard_region_filtered.png)
 
-![Regional Sales Analysis](dashboard/dashboard_screenshots/regional_sales.png)
-
-![Category Sales Analysis](dashboard/dashboard_screenshots/sales_categories.png)
-
-![Top Products Analysis](dashboard/dashboard_screenshots/top_10_products.png)
-
+![Category Filtered dashboard](dashboard/dashboard_screenshots/dashboard_category_filtered.png)
 ## 8. Project Structure
 
 Sales_Performance_Analytic_Dashboard_Project/
